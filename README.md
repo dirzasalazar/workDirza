@@ -1,5 +1,5 @@
 # workDirza
-## Bienvenido
+## Bienvenid@
 ## Te encuentras en Recursos de: laboratorios y practicas a entregar
 
 1. [01_INTRO_PRACTICA](./01_INTRO_PRACTICA/README.md)
